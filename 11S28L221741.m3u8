@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXTINF:3.641033,
+https://u1-203.ecukwai.com/ufile/adsocial/7e1cf05d-e5a7-48e8-aab4-a5a97e1ce820.png
+#EXTINF:3.207700,
+https://u1-203.ecukwai.com/ufile/adsocial/fe298ffe-8343-49c3-a422-34f2dc4f560d.png
+#EXTINF:3.387700,
+https://u2-203.ecukwai.com/ufile/adsocial/5604443e-28fd-4ba0-906f-416eb77d2eed.png
+#EXT-X-ENDLIST
